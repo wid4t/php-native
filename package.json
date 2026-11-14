@@ -1,0 +1,12 @@
+{
+  "name": "php-native",
+  "private": true,
+  "packageManager": "pnpm@12.16.1",
+  "type": "module",
+  "scripts": {
+    "package": "node package.js"
+  },
+  "devDependencies": {
+    "fflate": "^0.8.3"
+  }
+}
